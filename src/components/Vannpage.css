@@ -1,0 +1,50 @@
+.btns{
+    color: black;
+    background-color: #FFEAD0;
+    border: none;
+    gap: 560px;
+    width: 85.71px;
+    height: 33.89px;
+    top: 591px;
+    left: 27px;
+    border-radius: 5px;
+}
+.btns:hover{
+    color: white;
+    background-color: #E17654;
+}
+.btnss{
+    color: black;
+    background-color: #FFEAD0;
+    border: none;
+    gap: 560px;
+    width: 85.71px;
+    height: 33.89px;
+    top: 591px;
+    left: 27px;
+    border-radius: 5px;
+}
+.btnss:hover{
+    color: white;
+    background: #161616;
+}
+.btnsss{
+    color: black;
+    background-color: #FFEAD0;
+    border: none;
+    gap: 560px;
+    width: 85.71px;
+    height: 33.89px;
+    top: 591px;
+    left: 27px;
+    border-radius: 5px;
+}
+.btnsss:hover{
+    color: white;
+    background: #115E59;
+
+}
+.text{
+    font-weight: bolder;
+    
+}

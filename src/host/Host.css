@@ -1,0 +1,48 @@
+.wel{
+    background: #FFEAD0;
+    /* width: 548px; */
+height: 219px;
+top: 210px;
+border-radius: 5px;
+}
+.amo{
+    font-family: Inter;
+font-size: 48px;
+font-weight: 800;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+
+
+width: 495px;
+height: 38px;
+top: 354px;
+left: 27px;
+}
+
+.wel2{
+height: 113px;
+top: 429px;
+border-radius: 5px;
+background: #FFDDB2;
+
+}
+.list{
+width: 494px;
+height: 388px;
+/* top: 580px;
+left: 26px;
+row-gap: 700px; */
+display: flex;
+
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: right;
+
+}
+.ph{
+    margin-left: 700px;
+}

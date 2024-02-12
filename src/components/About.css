@@ -1,0 +1,90 @@
+.card-body{
+    width: 420px;
+    height: 60px;
+    top: 742px;
+    left: 64.02px;
+    background: #FFCC8D;
+    width: 494px;
+    height: 198px;
+    top: 710px;
+    left: 27.02px;
+    border-radius: 10px;
+
+}
+.card-text{
+    color: black;
+    width: 174px;
+    height: 49px;
+    top: 827px;
+    left: 65.02px;
+    padding: 12px;
+    border-radius: 10px;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    width: 420px;
+    height: 60px;
+    top: 742px;
+    left: 64.02px;
+
+}
+.btn{
+    width: 174px;
+    height: 49px;
+    top: 827px;
+    left: 65.02px;
+    padding: 12px;
+    border-radius: 10px;
+    margin-top: 50px;
+
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.text{
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.text1{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    width: 494.33px;
+    height: 76px;
+    top: 393.67px;
+    left: 26.91px;
+
+}
+.all{
+    /* padding-bottom: 50px; */
+    width: 548.15px;
+    height: 1035.51px;
+    top: 480.14px;
+    left: 926.19px;
+    /* padding: 50px; */
+}
+.allto{
+    /* padding: 50px; */
+    /* margin-top: 50px; */
+    margin-bottom: 50px;
+    /* padding-bottom: 50px; */
+}

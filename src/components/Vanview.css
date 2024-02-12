@@ -1,0 +1,55 @@
+.van{
+    width: 294.33px;
+    height: 49.83px;
+    top: 1050.46px;
+    left: 26.91px;
+    border-radius: 4.98px;
+    background: #FF8C38;
+    color: white;
+    border: #FF8C38;
+    margin-top: 50px;
+
+}
+
+.btnexp{
+    width: 85.71px;
+    height: 33.89px;
+    top: 756px;
+    left: 27.06px;
+    border-radius: 5px;
+    border: #E17654;
+    color: white;
+    background: #E17654;
+
+
+    
+    /* font-size: 16px; */
+    /* font-weight: 600; */
+    /* line-height: 32px; */
+    /* letter-spacing: 0em; */
+    /* text-align: center; */
+
+
+}
+.htex{
+    width: 494.33px;
+height: 34px;
+top: 810.27px;
+left: 26.91px;
+padding-top: 10px;  
+}
+.h3tex{
+width: 494.33px;
+height: 45px;
+top: 854px;
+left: 26.91px;
+padding-top: 10px;
+
+}
+.ptext{
+width: 294.33px;
+height: 120px;
+top: 908.81px;
+left: 26.91px;
+
+}
