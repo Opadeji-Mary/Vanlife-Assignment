@@ -1,12 +1,13 @@
 .wel{
     background: #FFEAD0;
     /* width: 548px; */
-height: 219px;
+/* height: 219px; */
 top: 210px;
 border-radius: 5px;
+
 }
 .amo{
-    font-family: Inter;
+font-family: Inter;
 font-size: 48px;
 font-weight: 800;
 line-height: 38px;
@@ -22,27 +23,39 @@ left: 27px;
 
 .wel2{
 height: 113px;
-top: 429px;
+padding-top: 50px;
+/* top: 429px; */
 border-radius: 5px;
 background: #FFDDB2;
 
 }
 .list{
-width: 494px;
-height: 388px;
-/* top: 580px;
-left: 26px;
-row-gap: 700px; */
-display: flex;
-
-font-family: Inter;
-font-size: 24px;
-font-weight: 700;
-line-height: 22px;
-letter-spacing: 0em;
-text-align: right;
-
+    width: 494px;
+    height: 80px;
+    display: flex;
+    font-family: Inter;
+    letter-spacing: 0em
 }
 .ph{
     margin-left: 700px;
+}
+.deta{
+    margin-left: 900px;
+}
+.imgdash{
+    display: flex;
+    padding-bottom: 50px;
+    margin-left: 80px;
+}
+.imgdash img{
+    height: 500px;
+    border-radius: 10px;
+    
+}
+.line{
+    line-height: 0px;
+}
+.prices{
+    margin-left: 40px;
+    padding: 90px;
 }

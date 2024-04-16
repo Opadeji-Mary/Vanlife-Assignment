@@ -1,0 +1,19 @@
+.ali{
+    /* background-color: red; */
+    margin-left: 80px;
+}
+
+.imatex p{
+    color: gray;
+}
+.imatex img{
+    height: 70px;
+    border-radius: 5px;
+}
+.imatex{
+    display: flex;
+    background-color: aliceblue;
+}
+.price{
+    margin-left: 20px;
+}

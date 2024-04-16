@@ -5,21 +5,38 @@ import logo from '../assets/logog.png'
 const NavbarTwo = () => {
   return (
     <div>
-     <nav class="navbar bg-body-tertiary">
-     <div class="container-fluid">
-    <img class="navbar-brand" to="/" src={logo} width="100px" />
-     <nav class="navbar navbar-expand-lg bg-body-tertiary">
-     <div class="container-fluid">
-     <div class="navbar-nav">
-        <Link class="nav-link active" href="#" to="/host">Host</Link>
-        <Link class="nav-link active" aria-current="page" to="/about">About</Link>
-        <Link class="nav-link active" href="#" to="/van">Van</Link>
+    <div>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container-fluid">
+         <img class="navbar-brand" to="/" src={logo} width="100px" />
+        <div className="">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <Link class="nav-link active" aria-current="page" to="/home">Home</Link>
+            </li>
+            <li class="nav-item">
+            <Link class="nav-link active" aria-current="page" to="/about">About</Link>
+            </li>
+            <li class="nav-item">
+            <Link class="nav-link active" to="/van">Van</Link>
+            </li>
+            <li>
+            <Link class="nav-link active" to="/sign">Sign</Link>
+            </li>
+            <li>
+            <Link class="nav-link active" href="#" to="/host">Host</Link>
+            </li>
+          </ul>
+        </div>
+        </div>
       </div>
+    </nav>
+   </div>
   </div>
-</nav>  
-  </div>
-</nav>
-    </div>
   )
 }
 

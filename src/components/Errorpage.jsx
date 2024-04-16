@@ -11,7 +11,10 @@ const Errorpage = () => {
         <h1 className="sorry mx-auto">
         Sorry, the page you were looking for was not found.
         </h1>
-        <button className="return">Return to home</button>
+        <button className="return" to="/home">Return to home
+        {/* <Link class="nav-link active" href="#" to="/home"></Link> */}
+        </button>
+
     </div>
     <Footer></Footer>
     </>
